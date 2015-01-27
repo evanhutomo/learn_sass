@@ -1,2 +1,13 @@
+@import partial
+
+=inimixin($hahaha)
+	border: $hahaha
+
+.yiha
+	width: 100%
+	height: 50%
+
 div .test1
 	color: #333
+	+inimixin(1px)
+	@extend .yiha	

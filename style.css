@@ -1,4 +1,12 @@
+.thisIsPartial {
+  font-family: Arial; }
+
+.yiha, div .test1 {
+  width: 100%;
+  height: 50%; }
+
 div .test1 {
-  color: #333; }
+  color: #333;
+  border: 1px; }
 
 /*# sourceMappingURL=style.css.map */
